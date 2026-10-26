@@ -1334,8 +1334,8 @@
   {
     "namespace": "",
     "key": "7B6AE34F43F5B04BA66A138FF3B7EDB2",
-    "hash": 3923517997,
-    "text": "早鳥玩家們，你們好！"
+    "hash": 137273386,
+    "text": "萬聖節快樂！"
   },
   {
     "namespace": "",
@@ -1370,8 +1370,8 @@
   {
     "namespace": "",
     "key": "EEE7EA5D42DB4137DFC735BB9BCA2FF7",
-    "hash": 3156462506,
-    "text": "祝各位玩家好運，感謝遊玩！:)"
+    "hash": 1237820004,
+    "text": "祝你好運，感謝遊玩！ :)"
   },
   {
     "namespace": "",
@@ -1388,8 +1388,8 @@
   {
     "namespace": "",
     "key": "916CA2EA493F314287B26DAFEB89A237",
-    "hash": 205514804,
-    "text": "臨時線索說明板！"
+    "hash": 277536088,
+    "text": "萬聖節活動！"
   },
   {
     "namespace": "",
@@ -5944,5 +5944,269 @@
     "key": "AA65BC0E41B55E1E4E41B99A3F1771C1",
     "hash": 2360713112,
     "text": "厄運"
+  },
+  {
+    "namespace": "",
+    "key": "4CA89C0D48C967777C81DF8E49CD930F",
+    "hash": 1289704811,
+    "text": "將隨機發生以下其中一種效果："
+  },
+  {
+    "namespace": "",
+    "key": "4F6ED8F147BC4CC1BF96179298C3744C",
+    "hash": 3458212869,
+    "text": "時鐘倒轉 30 分鐘"
+  },
+  {
+    "namespace": "",
+    "key": "A5F7E0F349D98A9C07503C91431D7BD5",
+    "hash": 855225959,
+    "text": "損失 30 分鐘"
+  },
+  {
+    "namespace": "",
+    "key": "4DEB0637472F13563CBBD8AD0CA04BC1",
+    "hash": 2592115878,
+    "text": "清空墓地"
+  },
+  {
+    "namespace": "",
+    "key": "67245EEE4E5A64BFFA189B93EF55C6E0",
+    "hash": 3265181972,
+    "text": "訪客棋子後退 30 分鐘"
+  },
+  {
+    "namespace": "",
+    "key": "1CFCC71E41BFF53C8E9D419C3C433600",
+    "hash": 903993965,
+    "text": "隨機棋盤效果"
+  },
+  {
+    "namespace": "",
+    "key": "DCF95AC24A47F011FE1BAFA232453033",
+    "hash": 1210672233,
+    "text": "30 分鐘"
+  },
+  {
+    "namespace": "",
+    "key": "5D1FE0784BA2B3A24EDB4CB87DE52A71",
+    "hash": 3597317396,
+    "text": "在遊戲結束時犧牲自己，拯救另一名玩家。"
+  },
+  {
+    "namespace": "",
+    "key": "8E52DC0E49467576A248EF82DE6EF709",
+    "hash": 525571680,
+    "text": "此卡須留在手中直到遊戲結束才會生效。否則，打出時視為一般推進卡。"
+  },
+  {
+    "namespace": "",
+    "key": "BC364BEB40A096E37A87D3BA84DF1701",
+    "hash": 803975391,
+    "text": "（若有人持有「叛徒」卡，此卡將失效）"
+  },
+  {
+    "namespace": "",
+    "key": "8E8A4E324A0A4E5B770F0581421CDE32",
+    "hash": 4122777769,
+    "text": "犧牲者"
+  },
+  {
+    "namespace": "",
+    "key": "15D44D994C530447C66F5DB9A1C0FA80",
+    "hash": 1210672233,
+    "text": "30 分鐘"
+  },
+  {
+    "namespace": "",
+    "key": "21E7E00A4DFC0B1D1B2176A9580FF801",
+    "hash": 3769362794,
+    "text": "阻止最後一個線索出現，但保證你能逃脫。"
+  },
+  {
+    "namespace": "",
+    "key": "D4BC026D4D34FE759466D1A24794E0F2",
+    "hash": 525571680,
+    "text": "此卡須留在手中直到遊戲結束才會生效。否則，打出時視為一般推進卡。"
+  },
+  {
+    "namespace": "",
+    "key": "53A070034325F3E74F4C6EA327F9E8EB",
+    "hash": 1224039558,
+    "text": "（若最後一個線索已揭露，此卡將失效）"
+  },
+  {
+    "namespace": "",
+    "key": "9BC986CD423382AA7D88D39B9F2BC3C8",
+    "hash": 3265978413,
+    "text": "叛徒"
+  },
+  {
+    "namespace": "",
+    "key": "304B8B7C45713A7CCC453C8CA140C5D9",
+    "hash": 1210672233,
+    "text": "30 分鐘"
+  },
+  {
+    "namespace": "",
+    "key": "6211F802489F157171E535A71A434986",
+    "hash": 583532930,
+    "text": "若遇到存檔問題，請透過 Discord 聯絡我們。"
+  },
+  {
+    "namespace": "",
+    "key": "B76F29B144092AAA78E73DB84407538C",
+    "hash": 227295993,
+    "text": "找出並抓住可怕的變異老鼠，贏取特別獎品！"
+  },
+  {
+    "namespace": "",
+    "key": "6464DA24499BDB392B41C4A88CC966D2",
+    "hash": 1760436620,
+    "text": "小屋各處也藏著禮物袋！\n找到它們，就能獲得有趣的惡作劇與獎勵！"
+  },
+  {
+    "namespace": "",
+    "key": "3CF22B824FBAD2B02120E8A28AE7CC71",
+    "hash": 1502108113,
+    "text": "活動將持續至 11 月第二週 :)"
+  },
+  {
+    "namespace": "",
+    "key": "41C25B1741171111E0E58982080582F6",
+    "hash": 2290330936,
+    "text": "「變異」"
+  },
+  {
+    "namespace": "",
+    "key": "AAB8AEE94BCF74F110038281A38CCFE6",
+    "hash": 1172359573,
+    "text": "新稱號"
+  },
+  {
+    "namespace": "",
+    "key": "C4E0E2BF41C191BC0CB474885FA43271",
+    "hash": 983613943,
+    "text": "2026 萬聖節"
+  },
+  {
+    "namespace": "",
+    "key": "80DFB3CE4DBAFA25F608BD89424CB459",
+    "hash": 3874365795,
+    "text": "打手巴頓"
+  },
+  {
+    "namespace": "",
+    "key": "15A51BC44EF59071C02C399011AB6E0C",
+    "hash": 73915474,
+    "text": "蛤蜊"
+  },
+  {
+    "namespace": "",
+    "key": "F31E86C9445E9F0739ABCAA3CD110768",
+    "hash": 3145919688,
+    "text": "剁肉刀"
+  },
+  {
+    "namespace": "",
+    "key": "E4B4A649429B36CB9128189290876304",
+    "hash": 1110384571,
+    "text": "陰森哥布林"
+  },
+  {
+    "namespace": "",
+    "key": "3AF7915940DE5483988F519E55182466",
+    "hash": 1646738282,
+    "text": "遊蕩中"
+  },
+  {
+    "namespace": "",
+    "key": "61344E1C4C34B8D62ABFE88371703E0D",
+    "hash": 2406541541,
+    "text": "追逐中"
+  },
+  {
+    "namespace": "",
+    "key": "A58541E64ED52F1CBE54E99247CF80F0",
+    "hash": 4175118515,
+    "text": "隨機回合"
+  },
+  {
+    "namespace": "",
+    "key": "F4F5264740A20ED8CD50578028882B70",
+    "hash": 3003589831,
+    "text": "下一回合將隨機選擇一名玩家。"
+  },
+  {
+    "namespace": "",
+    "key": "ABC57E4447EE05BEAA23EABE5F1F87D4",
+    "hash": 2123810761,
+    "text": "30 分鐘"
+  },
+  {
+    "namespace": "",
+    "key": "56DBC8A24A9F9A3AFD46879726933AC8",
+    "hash": 2604276358,
+    "text": "測試訪客"
+  },
+  {
+    "namespace": "",
+    "key": "D07203E94AF3683ED13B4FB05541FCE9",
+    "hash": 938259953,
+    "text": "60 分鐘"
+  },
+  {
+    "namespace": "",
+    "key": "4072A25A43719514CA08B1A2734C3DFF",
+    "hash": 3145042733,
+    "text": "迎頭趕上"
+  },
+  {
+    "namespace": "",
+    "key": "2A630A3F47039B462B9E87A89D6A84B7",
+    "hash": 1214622052,
+    "text": "追回失去的時間。\n向前推進半小時。"
+  },
+  {
+    "namespace": "",
+    "key": "4B21851B4CDC9F82A93BBB9B6A9CD6E4",
+    "hash": 2123810761,
+    "text": "30 分鐘"
+  },
+  {
+    "namespace": "",
+    "key": "C10931A743ACDB734349C8A095AC5A48",
+    "hash": 2701591388,
+    "text": "留在光亮處，避開黑暗，直到時間結束！"
+  },
+  {
+    "namespace": "",
+    "key": "71726AD64C2B79A3B1CEE58832BD7046",
+    "hash": 223408215,
+    "text": "留在光亮處"
+  },
+  {
+    "namespace": "",
+    "key": "DA7480394EF7A8E0114496A3E3771219",
+    "hash": 4109925680,
+    "text": "撐過這 90 秒，\n留在光亮處才能存活。\n避開黑暗及其中的事物，\n新的恐懼即將降臨。"
+  },
+  {
+    "namespace": "",
+    "key": "AD36A49E44676ACF5323AFB915ED4F44",
+    "hash": 951255875,
+    "text": "已犧牲"
+  },
+  {
+    "namespace": "",
+    "key": "547F1E8D4EFC8BAB8DE962AA3CFC45E5",
+    "hash": 2102741477,
+    "text": "叛徒"
+  },
+  {
+    "namespace": "",
+    "key": "A2D1AAE04B92AACA6DBCA586DE659249",
+    "hash": 1530251810,
+    "text": "+100"
   }
 ]
